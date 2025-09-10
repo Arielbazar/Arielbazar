@@ -1,5 +1,5 @@
 <!-- Header -->
-<h1 align="center">Hi there, Ariel Bazar 👋</h1>
+<h1 align="center">Hi there, Im Ariel Bazar 👋</h1>
 <p align="center">
   A web developer honing skills in <strong>HTML, CSS</strong>, and <strong>JavaScript</strong>, with foundational experience in <strong>Java</strong> and <strong>Excel</strong>.
 </p>
