@@ -4,7 +4,7 @@
   A web developer honing skills in <strong>HTML, CSS</strong>, and <strong>JavaScript</strong>, with foundational experience in <strong>Java</strong> and <strong>Excel</strong>.
 </p>
 
-
+![Image](https://github.com/user-attachments/assets/277e97f7-5f69-48ed-9488-7b723a51e11b)
 
 ---
 
@@ -23,21 +23,3 @@
 - **Tools**: Git, VS Code
 
 ---
-
-###  Projects Highlights
-
-| Project | Features |
-|--------|----------|
-| **Project A** | Built with HTML, CSS, JS—responsive layout with dynamic interactions |
-| **Project B** | Java app for task automation; integrated Excel output |
-
----
-
-###  Fun Element
-
-> "Striving to turn ideas into clean and functional code, one commit at a time."
-
----
-
-Would love to connect—feel free to reach out via GitHub or Reddit 
-
