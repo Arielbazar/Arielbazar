@@ -4,7 +4,6 @@
   A web developer honing skills in <strong>HTML, CSS</strong>, and <strong>JavaScript</strong>, with foundational experience in <strong>Java</strong> and <strong>Excel</strong>.
 </p>
 
-![Image](https://github.com/user-attachments/assets/277e97f7-5f69-48ed-9488-7b723a51e11b)
 
 ---
 
@@ -23,3 +22,4 @@
 - **Tools**: Git, VS Code
 
 ---
+![Image](https://github.com/user-attachments/assets/277e97f7-5f69-48ed-9488-7b723a51e11b)
